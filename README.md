@@ -1,5 +1,7 @@
 # Takoboto File Processor
 
+This is my Final Project for CS50P by Harvard. We were asked to code an original project with at least 3 unit testable functions, and I decided to challenge myself to create an application that would be useful for my Japanese studies. This project takes in user input, calls a Japanese dictionary API (jisho.org) if the user wants to understand what Parts of Speech the word belongs to, and returns the result as a CSV file.
+
 ## Problem statement:
 
 Saving new words in dictionary apps is a common habit amongst language learners, and most dictionary apps allow users to export these word lists.
